@@ -1,4 +1,4 @@
-# 国内免拔卡使用Tiktok记录
+# 国内免拔卡使用Tiktok笔记
 此处仅为自用流程，包含APP文件已绑定个人AppleID
 
 ### Shadowrocket配置记录
